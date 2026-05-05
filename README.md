@@ -27,3 +27,8 @@ The workflow consists of the following steps:
 5. **Combination generation**
    - Identifies valid metabolite combinations consistent with RT constraints
   
+## 📄 Poster
+
+A graphical overview of the MS1-based workflow is available here:
+
+[View Poster](docs/MS1_Workflow_Poster.pdf)
